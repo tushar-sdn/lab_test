@@ -1,0 +1,8 @@
+llama-index
+docx2txt
+contractions
+jinja2
+fastapi[all]
+google-generativeai
+nltk
+typing
